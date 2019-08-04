@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="backGround">#425D7A</color>
+    <color name="textColor">#ffffff</color>
+    <color name="loginbuttonColor">#5D9EC8</color>
+    <color name="signupbuttonColor">#46607B</color>
+    <color name="txtViewbackgrndColor">#FFFF99</color>
+    <color name="txtViewforegrndColor">#FFFF99</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="viewcolor">#FFB9B6B6</color>
+</resources>
